@@ -9,7 +9,7 @@
 ## General info
 This program predicts the price of cryptocurrencies using **Neutral network**.
 ## Screenshots
-  ![Image of the game](https://raw.githubusercontent.com/SboTeaman/PredictingCryptoPrice/master/prediction.png?token=AOVS2YJNBWBQF6W7K7ZLP4DAWAT54)
+  ![Image of the game](https://github.com/SboTeaman/PredictingCryptoPrice/blob/master/prediction.png)
  
  *This is result prediction plot*
 ## Technologies
